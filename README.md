@@ -35,20 +35,25 @@ After logging in to my profile through DoorDash.com, we navigate to the "Orders"
 
 There is a small button at the bottom of the limited history view that says "Load More Deliveries." After clicking this button for what felt like eons we arrived at the very first DoorDash order I placed on December 23, 2018. I remember that day like it was yesterday, a delicious red clam pie from Delorenzo's Tomato Pies. My guestimate is there will be somewhere around 100 total orders from that day almost 21 months ago.
 
-To acquire this data I've determined that web scraping will only take me too long. So I will be entering in the information into a Microsoft Excel file. See you next year!
+To acquire this data I've determined that my limited knowledge on building a web scraper will take too long. So I will be entering in the information into a Microsoft Excel file by hand. See you next year!
 
 
 ### Understanding the Data
-This section includes:
-* Describing the data
-* Exploring the data
-* Data cleaning
+* Column Descriptions: 
+    - Order Number: the order number as part of my total order history.
+    - Date: the date the order was placed
+    - Time: the time the order was delivered
+    - Restaurant: where the order was purchased from
+    - Cuisine: the type of menu the restaurant serves
+    - Items: how many items were ordered
+    - Cost: total cost includes the Subtotal + Tax + Delivery Charge (if any) + DoorDash Service Fee (if any) + Tip
 
+* Exploring the data: 
 
+* Data cleaning: 
 
 
 ### Preparing the Data
-
 This section may include:
 * Importing 
 * New Variable Assignments
@@ -56,10 +61,8 @@ This section may include:
 
 
 ### Modeling 
-
 This section will include the predictive modeling we used to achieve the desired business goals.
 
 
 ### Evaluation and Analysis
-
 This section will include the final analysis of our outcome.
