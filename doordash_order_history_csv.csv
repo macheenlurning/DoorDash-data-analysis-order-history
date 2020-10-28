@@ -1,0 +1,169 @@
+Order Number,Date,Time,Restaurant,Cuisine,Items,Cost
+167,2020-10-16,2:41 PM,Sycamore Grill,American,2,$30.71 
+166,2020-10-15,2:47 PM,Moish & Itzy's Deli,Diner,4,$50.03 
+165,2020-10-14,8:03 PM,La Stalla,Italian,2,$47.41 
+164,2020-10-10,2:20 PM,Lovebird,Chicken,3,$27.93 
+163,2020-10-08,1:02 PM,Burritos,Mexican,2,$24.15 
+162,2020-10-05,2:17 PM,The Turning Point,Diner,2,$26.24 
+161,2020-10-04,10:18 AM,Yardley Bagel Café,Café,3,$29.24 
+160,2020-10-02,7:59 PM,CVS,Convenience,9,$68.88 
+159,2020-09-25,5:33 PM,La Stalla,Italian,4,$79.96 
+158,2020-09-23,3:17 PM,Moish & Itzy's Deli,Diner,2,$29.81 
+157,2020-09-20,12:13 PM,The Turning Point,Diner,2,$26.07 
+156,2020-09-19,5:51 PM,Osaka Sushi Japanese,Japanese,3,$36.94 
+155,2020-09-18,8:28 PM,Piccolo Trattoria,Italian,2,$26.90 
+154,2020-09-16,6:46 PM,La Stalla,Italian,2,$42.96 
+153,2020-09-15,2:30 PM,The Turning Point,Diner,2,$27.90 
+152,2020-09-13,3:47 PM,Playa Bowls,Juice Bar,2,$21.55 
+151,2020-09-12,7:34 PM,Burritos,Mexican,3,$27.49 
+150,2020-09-11,8:25 PM,Osaka Sushi Japanese,Japanese,3,$37.06 
+149,2020-09-11,1:56 PM,The Turning Point,Diner,2,$24.34 
+148,2020-09-10,7:56 PM,Christine's,Italian,1,$28.59 
+147,2020-09-10,2:28 PM,The Turning Point,Diner,3,$39.37 
+146,2020-09-07,5:19 PM,Osaka Sushi Japanese,Japanese,3,$25.52 
+145,2020-09-06,8:50 PM,Zoe's Kitchen,Greek,2,$19.34 
+144,2020-09-05,7:39 PM,La Stalla,Italian,2,$47.41 
+143,2020-09-05,12:07 PM,Burritos,Mexican,3,$27.49 
+142,2020-09-03,11:25 AM,Playa Bowls,Juice Bar,1,$16.36 
+141,2020-09-02,7:22 PM,La Stalla,Italian,1,$29.71 
+140,2020-08-31,5:05 PM,Burritos,Mexican,3,$27.49 
+139,2020-08-30,3:50 PM,Osaka Sushi Japanese,Japanese,5,$44.23 
+138,2020-08-28,7:33 PM,Villa Rosa Italian Restaurant,Italian,2,$48.51 
+137,2020-08-28,2:54 PM,Burritos,Mexican,2,$16.92 
+136,2020-08-25,1:51 PM,Moish & Itzy's Deli,Diner,3,$43.58 
+135,2020-08-24,7:46 PM,Red Lobster,Seafood,1,$27.59 
+134,2020-08-17,2:22 PM,Burritos,Mexican,1,$17.94 
+133,2020-08-06,5:43 PM,Iron Hill Brewery,Brew Pub,2,$39.62 
+132,2020-08-05,8:53 PM,Metro Diner,Diner,1,$17.46 
+131,2020-08-05,2:14 PM,Moish & Itzy's Deli,Diner,4,$40.14 
+130,2020-08-03,8:24 PM,Peking-Tokyo,Japanese,3,$28.21 
+129,2020-07-28,6:35 PM,Piccolo Trattoria,Italian,1,$32.94 
+128,2020-07-27,1:49 PM,Burritos,Mexican,2,$10.15 
+127,2020-07-26,6:50 PM,La Stalla,Italian,1,$30.83 
+126,2020-07-23,7:46 PM,Piccolo Trattoria,Italian,1,$29.33 
+125,2020-07-22,5:47 PM,Osaka Sushi Japanese,Japanese,3,$35.44 
+124,2020-07-20,2:39 PM,The Turning Point,Diner,2,$29.68 
+123,2020-07-15,4:55 PM,Mamma Mia Trattoria,Italian,1,$27.19 
+122,2020-07-12,1:30 PM,Burritos,Mexican,2,$24.15 
+121,2020-07-10,7:59 PM,Piccolo Trattoria,Italian,1,$27.53 
+120,2020-07-08,2:04 PM,Osaka Sushi Japanese,Japanese,2,$26.15 
+119,2020-07-03,2:23 PM,Bailey's Bar & Grille,Tavern,5,$62.32 
+118,2020-06-30,8:00 PM,Piccolo Trattoria,Italian,2,$54.94 
+117,2020-06-30,1:45 PM,Philly Pretzel Factory,Pretzel Shop,4,$17.26 
+116,2020-06-28,7:13 PM,Moish & Itzy's Deli,Diner,5,$66.67 
+115,2020-06-27,7:00 PM,Osaka Sushi Japanese,Japanese,3,$34.83 
+114,2020-06-26,7:36 PM,Osaka Sushi Japanese,Japanese,2,$28.60 
+113,2020-06-25,2:09 PM,Burritos,Mexican,3,$33.61 
+112,2020-06-24,5:17 PM,La Stalla,Italian,2,$45.18 
+111,2020-06-22,8:21 PM,La Stalla,Italian,1,$30.71 
+110,2020-06-22,2:07 PM,The Turning Point,Diner,2,$32.42 
+109,2020-06-19,2:54 PM,Burritos,Mexican,2,$21.92 
+108,2020-06-18,8:37 PM,Arirang Hibachi Steakhouse,Japanese,3,$34.54 
+107,2020-06-12,5:40 PM,Lovebird,Chicken Shop,2,$29.88 
+106,2020-06-09,7:23 PM,Mt Fuji Hibachi & Asian Bistro,Japanese,3,$48.58 
+105,2020-06-04,8:46 PM,Piccolo Trattoria,Italian,2,$48.21 
+104,2020-06-03,4:47 PM,Bailey's Bar & Grille,Tavern,6,$58.54 
+103,2020-06-02,7:20 PM,Piccolo Trattoria,Italian,2,$51.64 
+102,2020-05-30,1:34 PM,Burritos,Mexican,4,$34.08 
+101,2020-05-28,7:51 PM,Mt Fuji Hibachi & Asian Bistro,Japanese,3,$50.40 
+100,2020-05-22,2:49 PM,The Turning Point,Diner,1,$19.31 
+99,2020-05-20,3:10 PM,Moish & Itzy's Deli,Diner,4,$47.80 
+98,2020-05-12,6:36 PM,Mt Fuji Hibachi & Asian Bistro,Japanese,3,$57.90 
+97,2020-05-09,9:07 PM,Indian Garden,Indian,3,$43.08 
+96,2020-05-05,10:26 PM,Chilli's Bar & Grill,American,2,$22.74 
+95,2020-05-04,7:31 PM,Piccolo Trattoria,Italian,2,$52.84 
+94,2020-04-28,8:43 PM,Red Robin,American,1,$22.39 
+93,2020-04-23,8:04 PM,Miller's Ale House,Tavern,2,$40.26 
+92,2020-04-19,5:53 PM,Villa Rosa Italian Restaurant,Italian,3,$41.93 
+91,2020-04-17,8:45 PM,Bonefish Grill,Seafood,2,$39.41 
+90,2020-04-14,4:53 PM,Arirang Hibachi Steakhouse,Japanese,3,$36.38 
+89,2020-04-09,6:30 PM,Piccolo Trattoria,Italian,2,$57.79 
+88,2020-04-05,3:58 PM,Moish & Itzy's Deli,Diner,2,$35.35 
+87,2020-03-31,6:48 PM,Arirang Hibachi Steakhouse,Japanese,3,$39.07 
+86,2020-03-24,7:55 PM,La Stalla,Italian,1,$39.24 
+85,2020-03-22,7:37 PM,Popeyes,Fast Food,1,$19.42 
+84,2020-03-07,7:22 PM,Osaka Sushi Japanese,Japanese,3,$38.30 
+83,2020-02-25,4:01 PM,Osaka Sushi Japanese,Japanese,4,$41.35 
+82,2020-02-21,7:50 PM,Mt Fuji Hibachi & Asian Bistro,Japanese,3,$47.97 
+81,2020-02-15,8:17 PM,Harvest Seasonal Grill & Wine Bar,Farm to Table,1,$31.08 
+80,2020-01-21,1:28 PM,Mt Fuji Hibachi & Asian Bistro,Japanese,3,$42.07 
+79,2019-12-27,2:11 PM,Canal Street Grille,Greek,1,$29.07 
+78,2019-12-20,4:01 PM,TGI Friday's,American,2,$40.67 
+77,2019-12-16,2:22 PM,Mt Fuji Hibachi & Asian Bistro,Japanese,3,$47.97 
+76,2019-12-14,2:25 PM,Canal Street Grille,Greek,2,$36.51 
+75,2019-12-12,7:29 PM,Continental Tavern,Tavern,2,$34.35 
+74,2019-12-12,1:30 PM,The Weekday Café,Café,1,$17.54 
+73,2019-12-11,6:23 PM,La Stalla,Italian,4,$88.70 
+72,2019-12-08,7:16 PM,Mt Fuji Hibachi & Asian Bistro,Japanese,3,$47.17 
+71,2019-12-01,3:42 PM,Canal Street Grille,Greek,1,$31.55 
+70,2019-11-30,1:58 PM,Canal Street Grille,Greek,3,$52.39 
+69,2019-11-24,1:37 PM,Canal Street Grille,Greek,1,$31.55 
+68,2019-11-23,6:53 PM,De Lorenzo's Tomato Pies,Pizza,1,$36.59 
+67,2019-11-18,1:22 PM,Canal Street Grille,Greek,3,$67.27 
+66,2019-11-15,5:44 PM,De Lorenzo's Tomato Pies,Pizza,1,$36.59 
+65,2019-11-07,2:34 PM,Bertucci's,Pizza,1,$22.69 
+64,2019-11-06,1:36 PM,Canal Street Grille,Greek,2,$39.99 
+63,2019-11-02,5:45 PM,De Lorenzo's Tomato Pies,Pizza,1,$40.31 
+62,2019-11-01,3:24 PM,Venezia Pizza,Italian,2,$50.39 
+61,2019-10-31,1:54 PM,Canal Street Grille,Greek,1,$32.55 
+60,2019-10-27,1:49 PM,Canal Street Grille,Greek,2,$39.99 
+59,2019-10-22,3:38 PM,Red House,American,2,$31.78 
+58,2019-10-05,6:25 PM,Villa Rosa Italian Restaurant,Italian,2,$38.30 
+57,2019-09-19,7:36 PM,Red Robin,American,1,$21.86 
+56,2019-09-11,5:42 PM,De Lorenzo's Tomato Pies,Pizza,1,$37.03 
+55,2019-09-09,6:59 PM,Mt Fuji Hibachi & Asian Bistro,Japanese,2,$44.51 
+54,2019-09-06,2:40 PM,Village Market,Café,4,$39.79 
+53,2019-09-01,3:16 PM,Burritos,Mexican,2,$20.87 
+52,2019-08-31,4:44 PM,De Lorenzo's Tomato Pies,Pizza,1,$41.66 
+51,2019-08-28,2:18 PM,Red Robin,American,1,$23.85 
+50,2019-08-25,7:07 PM,De Lorenzo's Tomato Pies,Pizza,1,$30.47 
+49,2019-08-23,1:07 PM,Continental Tavern,Tavern,2,$45.90 
+48,2019-08-19,7:22 PM,Bertucci's,Pizza,2,$34.07 
+47,2019-08-14,6:44 PM,Mt Fuji Hibachi & Asian Bistro,Japanese,2,$40.63 
+46,2019-08-13,6:14 PM,Piccolo Trattoria,Italian,3,$71.11 
+45,2019-08-09,1:00 PM,Lena's Deli,Diner,3,$41.48 
+44,2019-08-05,7:19 PM,Red Robin,American,2,$35.59 
+43,2019-07-31,6:58 PM,Bertucci's,Pizza,2,$42.89 
+42,2019-07-30,2:17 PM,Mt Fuji Hibachi & Asian Bistro,Japanese,3,$51.73 
+41,2019-07-29,6:33 PM,Venezia Pizza,Pizza,1,$28.15 
+40,2019-07-27,9:10 PM,Buffalo Wild Wings,Tavern,2,$45.61 
+39,2019-07-18,5:54 PM,De Lorenzo's Tomato Pies,Pizza,2,$52.58 
+38,2019-07-14,7:34 PM,Villa Rosa Italian Restaurant,Italian,2,$47.76 
+37,2019-07-12,7:33 PM,Mt Fuji Hibachi & Asian Bistro,Japanese,3,$62.15 
+36,2019-07-05,7:58 PM,Mt Fuji Hibachi & Asian Bistro,Japanese,2,$44.40 
+35,2019-07-03,7:18 PM,De Lorenzo's Tomato Pies,Pizza,1,$34.10 
+34,2019-06-28,9:18 PM,Continental Tavern,Tavern,2,$39.34 
+33,2019-06-22,7:05 PM,Continental Tavern,Tavern,2,$47.11 
+32,2019-06-20,6:21 PM,Mt Fuji Hibachi & Asian Bistro,Japanese,3,$45.51 
+31,2019-06-18,5:04 PM,De Lorenzo's Tomato Pies,Pizza,1,$36.22 
+30,2019-06-17,7:08 PM,Mt Fuji Hibachi & Asian Bistro,Japanese,3,$24.13 
+29,2019-06-17,1:52 PM,Inactive Store,Diner,4,$48.59 
+28,2019-06-12,5:35 PM,Christine's,Italian,3,$82.68 
+27,2019-06-11,7:28 PM,Mt Fuji Hibachi & Asian Bistro,Japanese,3,$46.14 
+26,2019-06-06,9:00 PM,De Lorenzo's Tomato Pies,Pizza,1,$30.47 
+25,2019-06-04,7:34 PM,Mt Fuji Hibachi & Asian Bistro,Japanese,2,$43.07 
+24,2019-06-01,8:25 PM,Concerto Fusion,Asian,3,$45.08 
+23,2019-05-29,5:13 PM,De Lorenzo's Tomato Pies,Pizza,1,$36.22 
+22,2019-05-10,8:41 PM,Mt Fuji Hibachi & Asian Bistro,Japanese,3,$48.56 
+21,2019-05-07,7:13 PM,La Stalla,Italian,3,$113.71 
+20,2019-05-05,4:40 PM,Piccolo Trattoria,Italian,2,$40.79 
+19,2019-04-29,8:50 PM,Osaka Sushi Japanese,Japanese,2,$42.04 
+18,2019-04-28,5:28 PM,Piccolo Trattoria,Italian,3,$44.10 
+17,2019-04-19,6:08 PM,Osaka Sushi Japanese,Japanese,2,$28.32 
+16,2019-04-19,4:46 PM,Café Con Leche,Café,3,$66.96 
+15,2019-04-17,7:35 PM,La Stalla,Italian,2,$63.83 
+14,2019-04-11,7:12 PM,La Stalla,Italian,3,$116.71 
+13,2019-04-07,5:53 PM,La Stalla,Italian,2,$58.77 
+12,2019-03-30,7:43 PM,Sycamore Grill,American,2,$55.57 
+11,2019-03-28,3:21 PM,Osaka Sushi Japanese,Japanese,2,$27.69 
+10,2019-03-23,8:42 PM,Osaka Sushi Japanese,Japanese,3,$56.37 
+9,2019-03-22,7:37 PM,La Stalla,Italian,3,$88.76 
+8,2019-03-15,8:38 PM,Mt Fuji Hibachi & Asian Bistro,Japanese,3,$51.57 
+7,2019-03-05,7:38 PM,Acqua e Farina,Pizza,2,$50.58 
+6,2019-03-02,4:20 PM,Mt Fuji Hibachi & Asian Bistro,Japanese,2,$43.92 
+5,2019-02-28,7:38 PM,59 Almshouse,American,3,$48.52 
+4,2019-01-19,4:26 PM,Sycamore Grill,American,2,$33.01 
+3,2019-01-09,8:10 PM,Friends Bar & Grille,Tavern,2,$44.25 
+2,2019-01-05,7:28 PM,De Lorenzo's Tomato Pies,Pizza,1,$41.01 
+1,2018-12-23,6:42 PM,De Lorenzo's Tomato Pies,Pizza,1,$29.88 
+,,,,,,
